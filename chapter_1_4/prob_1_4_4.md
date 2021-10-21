@@ -1,0 +1,2 @@
+## Is the world-wide web a category in any sense?  Are links morphisms?
++ the web is a category in that it has objects (sites) and morphisms (links) that map from one site to another.  this can include hopping between chains of sites.  It's not like a category in that there may be paths from a->b->c without a direct path from a->c.  Not sure how to fold directly typing a url in given you're currently on a page - that may be a direct arrow from any site to any site
